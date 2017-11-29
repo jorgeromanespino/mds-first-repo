@@ -2,4 +2,4 @@ Hello World!
 Segundo línea
 Línea añadida
 
-remote line added
+remote line added for conflict simulation
