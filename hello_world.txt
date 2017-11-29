@@ -3,4 +3,3 @@ Segundo línea
 Línea añadida
 
 local line added. Trying to make a conflict
-
